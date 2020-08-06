@@ -1,3 +1,4 @@
 Resolusi 2020
 -Belajar Git & GitHub
 -Belajar Codelgniter 4
+-Belajar JS
